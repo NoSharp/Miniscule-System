@@ -1,0 +1,12 @@
+hostname: "test.example.com"
+port: 3306
+databasename: "examplename"
+user: "exampleuser"
+pass: "exampleP4$$w0rD"
+defaultrole : "default"
+
+NotEnoughArguments: "Sorry, you have not entered the correct amount of arguments."
+NoPermissions: "You don't have the correct permissions to carry out this request."
+NotAPlayer: "You have not entered the name of a player."
+NotARole: "You have not entered the name of a role."
+SetRole: "Successfully set player's role."

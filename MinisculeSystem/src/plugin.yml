@@ -1,0 +1,14 @@
+name: minisculesystem
+version: 1.0
+description: a simple system that uses mysql to store player data.
+
+main: com.nosharp.minisculesystem.main.Main
+
+commands:
+  setrole:
+    description: uses /help
+
+permissions:
+  setrole.use:
+    description: allows use of /setrole 
+    default: op
